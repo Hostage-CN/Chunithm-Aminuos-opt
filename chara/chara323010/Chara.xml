@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <CharaData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <dataName>chara018750</dataName>
+  <dataName>chara323010</dataName>
   <releaseTagName>
     <id>16</id>
     <str>v2 2.20.00</str>
@@ -13,7 +13,7 @@
   </netOpenName>
   <disableFlag>false</disableFlag>
   <name>
-    <id>323001</id>
+    <id>323010</id>
     <str>Exusiai</str>
     <data />
   </name>
