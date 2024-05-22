@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <CharaData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <dataName>chara323010</dataName>
+  <dataName>chara323000</dataName>
   <releaseTagName>
     <id>16</id>
     <str>v2 2.20.00</str>
@@ -18,7 +18,7 @@
     <data />
   </name>
   <explainText />
-  <sortName>アストライア</sortName>
+  <sortName>Arknights</sortName>
   <works>
     <id>9080</id>
     <str>CHUNITHM LUMINOUS</str>
@@ -35,8 +35,8 @@
     <conditions />
   </normCondition>
   <defaultImages>
-    <id>18750</id>
-    <str>chara1875_00</str>
+    <id>32300</id>
+    <str>chara3230_00</str>
     <data />
   </defaultImages>
   <addImages1>
